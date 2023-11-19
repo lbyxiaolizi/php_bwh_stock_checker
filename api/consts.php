@@ -25,6 +25,6 @@ $cart_filename = "cart.txt"; # 非即时模式/缓存模式下，保存库存的
 # 网站相关
 $site_title="搬瓦工 - 即时库存检测"; # 标题，会显示在首页顶部卡片
 $say_something="<a href=\"https://github.com/yeyingorg/php_bwh_stock_checker\" target=\"_blank\">点此获取本页面源码</a>"; # 副标题
-$refer_root='https://php-bwh-stock-checker.vercel.app/bwg.php'; # 指向后端页面的地址 请务必记得同时修改index.html里158行的路径。
+$refer_root='https://bwg.vh.gs/bwg.php'; # 指向后端页面的地址 请务必记得同时修改index.html里158行的路径。
 
 ?>
