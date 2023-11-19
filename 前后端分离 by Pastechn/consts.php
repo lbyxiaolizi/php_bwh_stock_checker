@@ -1,6 +1,6 @@
 <?php
 
-$aff=31993; # aff号
+$aff=67241; # aff号
 $bwh_domain="bwh81.net"; # 搬瓦工域名，不带https://
 
 $promo_code = [
